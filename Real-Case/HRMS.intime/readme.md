@@ -19,4 +19,4 @@
 - use bginfo to display the information on screen
 
 # Reference
-[Reference links file](/intime_script/reference.txt)
+[Reference links file](intime_script/reference.txt)
