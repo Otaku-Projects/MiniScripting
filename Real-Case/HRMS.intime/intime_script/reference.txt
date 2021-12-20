@@ -1,0 +1,23 @@
+sqlcmd - Run Transact-SQL Script Files
+https://docs.microsoft.com/en-us/sql/ssms/scripting/sqlcmd-run-transact-sql-script-files?view=sql-server-ver15
+
+Connecting with sqlcmd
+https://docs.microsoft.com/en-us/sql/connect/odbc/linux-mac/connecting-with-sqlcmd?view=sql-server-ver15
+
+sqlcmd - Connect to the Database Engine
+https://docs.microsoft.com/en-us/sql/ssms/scripting/sqlcmd-connect-to-the-database-engine?view=sql-server-ver15
+
+sqlcmd - Use the utility
+https://docs.microsoft.com/en-us/sql/ssms/scripting/sqlcmd-use-the-utility?view=sql-server-ver15#run-transact-sql-statements-interactively-by-using-sqlcmd
+
+SSMS Utility
+https://docs.microsoft.com/en-us/sql/ssms/ssms-utility?view=sql-server-ver15
+
+sqlcmd Utility (2021)
+https://docs.microsoft.com/en-us/sql/tools/sqlcmd-utility?view=sql-server-ver15#command-line-options
+
+sqlcmd Utility (2016)
+https://docs.microsoft.com/en-us/previous-versions/sql/2014/tools/sqlcmd-utility?view=sql-server-2014&preserve-view=true
+
+How to Write and Run Scripts in the Windows PowerShell ISE
+https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/ise/how-to-write-and-run-scripts-in-the-windows-powershell-ise?view=powershell-7.1
