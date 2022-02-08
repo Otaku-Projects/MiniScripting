@@ -1,17 +1,17 @@
 
 
 ## create folders if not exists
-$path = "..\intime_history"
+$path = "$PSScriptRoot\..\intime_history"
 If(!(test-path $path))
 {
       New-Item -ItemType Directory -Force -Path $path
 }
-$path = "..\intime_temp"
+$path = "$PSScriptRoot\..\intime_temp"
 If(!(test-path $path))
 {
       New-Item -ItemType Directory -Force -Path $path
 }
-$path = "..\intime_today"
+$path = "$PSScriptRoot\..\intime_today"
 If(!(test-path $path))
 {
       New-Item -ItemType Directory -Force -Path $path
